@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mailtoasmitaghosh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/19WyDouoXQBFfvhetu9WVIbbOKAfjCiUQ?usp=sharing](https://drive.google.com/drive/folders/19WyDouoXQBFfvhetu9WVIbbOKAfjCiUQ?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/198o5KHVQeLDX8fRWKKj7Fsz3Saf_sG8-/view?usp=sharing">here.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
