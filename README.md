@@ -6,11 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmita08" alt="asmita08" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Android Development Projects.**
-
 - 📫 How to reach me **mailtoasmitaghosh@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/198o5KHVQeLDX8fRWKKj7Fsz3Saf_sG8-/view?usp=sharing">here.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
